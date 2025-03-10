@@ -12,7 +12,7 @@ working_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(working_dir, "Model", "plant_disease_prediction_model.h5")
 class_indices_path = os.path.join(working_dir, "Model", "class_indices.json")
 
-gdrive_url = "https://drive.google.com/file/d/161k3OqiMJjAP7__6x5eXzropqGCzlESs/view?usp=drive_link"
+gdrive_url = "https://drive.google.com/uc?id=161k3OqiMJjAP7__6x5eXzropqGCzlESs"
 
 if not os.path.exists(model_path):
     st.info("Downloading model file...")
