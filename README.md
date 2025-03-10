@@ -57,9 +57,10 @@ streamlit run app.py
 
 ## 🖼️ Sample Prediction  
 **Input:**  
-<img src="https://via.placeholder.com/300" width="300">  
+![input](https://github.com/user-attachments/assets/4091ff24-7f31-4a10-b597-ab29118903e4)
+ 
 
 **Output:**  
-![alt text](image.png)
+![output](https://github.com/user-attachments/assets/03ad5636-1d01-42ff-a6d1-35049a3e5e4f)
 
 ---
